@@ -1,0 +1,168 @@
+
+.work {
+
+	margin: 300px 250px;
+	background: white;
+
+}
+
+.lines { 
+
+	border-bottom: 1px solid #ccc;
+	display: block;
+	padding-right: 5px;
+	width: 900px;
+	margin-top: 15px;
+
+}
+
+.sneak_box {
+	width: 40px;
+	height: 40px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+.sneak li {
+	color: black;
+	opacity: 50%;
+	font-size: 13px;
+	display: flex;
+}
+
+
+.sneak a {
+	text-decoration: none;
+	}
+
+.pro ul {
+	display: flex;
+}
+
+
+.pro {
+	display: flex;
+	align-items: center;
+	height: 100%;
+}
+
+.pro ul li {
+	margin-left: 15px;
+}
+
+
+.img_pro {
+	width: 40px;
+	height: 40px;
+	margin-left: 500px
+}
+
+
+.sneak_box img {
+
+	height: 298px;
+	width: 298px;
+	margin-left: 40px;
+	margin-right: 10px;
+	padding-right: 15px;
+	border-radius: 25px;
+}
+
+.sneak_boxx img {
+	height: 70px;
+	width: 70px;
+	border-radius: 15px;
+}
+
+
+.sneak_boxx ul {
+	display: flex;
+	margin-top: 1px;
+	margin-left: 0px;
+	gap: 7px;
+
+}
+
+.sneakbox {
+
+	margin-top: 90px;
+	display: grid;
+	height: 150px;
+	width: 800px;
+	grid-template-columns: repeat(2, 1fr)
+
+}
+
+.writeup {
+	margin-left: 60px;
+	margin-top: 45px;
+	height: 260px;
+	width: 260px;
+}
+
+.write_up {
+	font-size: 12px;
+	font-weight: bold;
+	color: orange;
+
+}
+
+.writeupp {
+	font-size: 20px;
+	font-weight: bold;
+	color: black;
+}
+
+.writeuppp {
+	font-size: 15px;
+	opacity: 50%;
+	color: black;
+}
+
+
+.price {
+	font-size: 20px;
+	font-weight: bold;
+	color: black;
+}
+
+.pricee {
+	color: orange;
+	background-color: lightpink;
+	height: 20px;
+	width: 40px;
+	font-size: 15px;
+	font-weight: bold;
+	align-content: center;
+	border-radius: 6px;
+	margin-left: 20px;
+}
+
+
+.perc {
+	display: flex;
+	margin-top: 20px;
+}
+
+.priceee {
+	opacity: 30%;
+	margin-top: 10px;
+	font-size: 15px;
+	text-decoration: line-through;
+	font-weight: bold;
+}
+
+.ad_cart {
+	display: flex;
+	gap: 15px;
+	margin-top: 15px;
+}
+
+.add_cart {
+	background-color: darkorange;
+	border-radius: 7px;
+	font-size: 10px;
+	align-content: center;
+	}
